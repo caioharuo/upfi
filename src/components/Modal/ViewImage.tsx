@@ -21,9 +21,9 @@ export function ModalViewImage({
 }: ModalViewImageProps) {
   // TODO MODAL WITH IMAGE AND EXTERNAL LINK
   return (
-    <Modal isOpen={isOpen} onClose={onClose}>
+    <Modal isOpen={isOpen} onClose={onClose} isCentered>
       <ModalOverlay />
-      <ModalContent maxW="900px" maxH="600px" w="auto" h="auto">
+      <ModalContent mx="auto" maxW="900px" maxH="600px" w="auto" h="auto">
         <ModalBody p="0">
           <Image src={imgUrl} />
         </ModalBody>
