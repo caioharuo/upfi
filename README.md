@@ -51,7 +51,7 @@ This project was developed using the following technologies:
 - Install all the dependencies with `yarn` or `npm install`;
 - Run the application with `yarn dev` or `npm run dev`;
 - Access [`localhost:3000`](http://localhost:3000/) in your browser;
-- Enjoy 
+- Enjoy 🥳
 
 ## License 📄
 
