@@ -44,6 +44,9 @@ This project was developed using the following technologies:
 
 ## How to execute 🚀
 
+### Deployed App: https://upfi-roan.vercel.app/
+
+### If you prefer to run it locally:
 - Clone this repository;
 - Create a new database in [FaunaDB](https://fauna.com/) and a new **collection** called ``images``;
 - Create an account in ImgBB and generate a [API Key](https://api.imgbb.com/);
